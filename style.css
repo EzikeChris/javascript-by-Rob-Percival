@@ -1,0 +1,9 @@
+.circle {
+    background: rgb(0, 0, 0);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-right: 50px;
+    float: left;
+
+}
